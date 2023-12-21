@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "azure-eventhub-listener"
-version = "0.1.5"
+version = "0.1.6"
 description = "A listener for Azure Event Hub events."
 authors = ["Sameer Chaudhari <sameervchaudhari@gmail.com>"]
 license = "MIT"

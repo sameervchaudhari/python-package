@@ -5,7 +5,7 @@ async def on_event(partition_context, event):
     # Process the event here
 
 async def start_listening():
-    print("package is running .....")
+    print("package is created from github and running .....")
     # Async operations go here, make sure to use 'await' for each async call
 
 def main():
