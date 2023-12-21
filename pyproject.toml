@@ -2,8 +2,9 @@
 name = "azure-eventhub-listener"
 version = "0.1.5"
 description = "A listener for Azure Event Hub events."
-authors = ["Your Name <your-email@example.com>"]
+authors = ["Sameer Chaudhari <sameervchaudhari@gmail.com>"]
 license = "MIT"
+homepage = "https://python-poetry.org/"
 
 [tool.poetry.dependencies]
 python = "^3.9.3"
